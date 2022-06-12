@@ -5,7 +5,7 @@
       @input="postInputText(inputTextDto)"
       style="width: 500px; height: 200px"
     ></textarea>
-    <div id="highlightArea">{{ inputTextDto.inputText }}</div>
+    <pre id="highlightArea">{{ inputTextDto.inputText }}</pre>
   </div>
 </template>
 
