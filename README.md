@@ -2,7 +2,8 @@
 
 ## Description:
 
-A VueJS + NestJS application that compares text input to some common medical symptoms scraped from the web.
+A VueJS + NestJS application that compares text input to some common medical symptoms scraped from the web. 
+https://www.nhsinform.scot/symptoms-and-self-help/a-to-z/
 
 ## Design choices:
 
